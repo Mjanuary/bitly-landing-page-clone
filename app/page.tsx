@@ -4,7 +4,7 @@ import { ConnectionPlatform } from "@/components/landing-page/connection-platfor
 
 export default function Home() {
   return (
-    <div className="font-[family-name:var(--font-geist-sans)] text-base">
+    <div className="font-[family-name:var(--font-geist-sans)] text-base text-black bg-white">
       <Navigation />
 
       <HeroSection />
